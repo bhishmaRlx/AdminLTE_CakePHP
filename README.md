@@ -16,7 +16,11 @@ Steps to SETEP this AdminLTE_CakePHP:
     
     In this project name of database is "databasename", so you can create a database with name "databasename"
 
-4.  Thast it. Just open the link to access the wonder full template created by https://almsaeedstudio.com/ and create your beautifull application.
+4.  Thast it. Just open the link below to access the wonder full template created by https://almsaeedstudio.com/ and create your beautifull application.
+    Link:
+    If you are hosting this at your localhost then : http://localhost/AdminLTETest/
+    OR
+    If you are hosting this at your remote server then : http://yourRemoteServerName/AdminLTETest/
 
 
 LICENSE of AdminLTE_CakePHP:
