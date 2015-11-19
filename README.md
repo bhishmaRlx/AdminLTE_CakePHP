@@ -1,6 +1,6 @@
 # AdminLTE_CakePHP
 
-Its an attempt to integrate most famous admin control panel/template ADminLTE with cakePHP a PHP framework.
+Its an attempt to integrate most famous admin control panel/template ADminLTE with cakePHP a MVC framework for php.
 
 Steps to SETEP this AdminLTE_CakePHP:
 
@@ -21,7 +21,9 @@ Steps to SETEP this AdminLTE_CakePHP:
 
 LICENSE of AdminLTE_CakePHP:
 AdminLTE_CakePHP is licensed under the MIT license which makes it perfect for use in commercial applications.
+
     *   LICENSE of AdminLTE:
         AdminLTE is an open source project by Almsaeed Studio that is licensed under MIT. Almsaeed Studio reserves the right to change the license of future releases.
+        
     *   LICENSE of cakePHP:
         CakePHP is licensed under the MIT license which makes it perfect for use in commercial applications.
