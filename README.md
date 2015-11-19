@@ -23,6 +23,7 @@ LICENCE of AdminLTE_CakePHP:
 AdminLTE_CakePHP is licensed under the MIT license which makes it perfect for use in commercial applications.
     * LICENCE of AdminLTE:
         AdminLTE is an open source project by Almsaeed Studio that is licensed under MIT. Almsaeed Studio reserves the right        to change the license of future releases.
+        
     * LICENCE of cakePHP:
         CakePHP is licensed under the MIT license which makes it perfect for use in commercial applications.
         
